@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Named Entity Recognization**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 📝 I regularly write articles on [https://medium.com/@imsachinsingh00](https://medium.com/@imsachinsingh00)
 
