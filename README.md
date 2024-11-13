@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@imsachinsingh00](https://medium.com/@imsachinsingh00)
 
-- 💬 Ask me about **AI, ML, DL, NN, NLP, CV**
+- 💬 Ask me about **AI, ML, DL, LLM, NN, NLP, CV**
 
 - 📫 How to reach me **imsachinsingh00@outlook.com**
 
