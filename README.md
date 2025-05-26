@@ -1,32 +1,82 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQFCrvbqx6l5-Q/profile-displaybackgroundimage-shrink_350_1400/0/1673810768225?e=1685577600&v=beta&t=jC5GnK7jEcqcBKlD-IIt9dDDc5Em5c_YkS4AZv92Oeo)
+![MasterHead](https://your-hosted-banner-image-link.com)
 <h1 align="center">Hi 👋, I'm Sachin Kumar Singh</h1>
-<h3 align="center">A passionate Artificial Intelligence Engineer</h3>
+<h3 align="center">AI Engineer | Real-time ML & LLM Systems | M.Sc. in Computer Science | RPTU Kaiserslautern</h3>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsachinsingh00&label=Profile%20views&color=0e75b6&style=flat" alt="imsachinsingh00" /> </p>
 
-- 🔭 I’m currently working on **Hand Gesture Recognition**
-
-- 🌱 I’m currently learning **Human computer Interection**
-
-- 📝 I regularly write articles on [https://medium.com/@imsachinsingh00](https://medium.com/@imsachinsingh00)
-
-- 💬 Ask me about **AI, ML, DL, LLM, NN, NLP, CV**
-
-- 📫 How to reach me **imsachinsingh00@outlook.com**
-
-- ⚡ Fun fact **I am very talkitive**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/imsachinsingh00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imsachinsingh00" height="30" width="40" /></a>
-<a href="https://medium.com/@imsachinsingh00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imsachinsingh00" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=imsachinsingh00&label=Profile%20views&color=0e75b6&style=flat" alt="imsachinsingh00" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on: **Hand Gesture Recognition & LLM-integrated Annotation Tools**  
+- 🌱 Exploring: **Human-Computer Interaction & Generative AI Systems**  
+- 📝 Regular author on [Medium](https://medium.com/@imsachinsingh00)  
+- 🌐 My Portfolio: [datascienceportfol.io/sachinsingheu](https://www.datascienceportfol.io/sachinsingheu)  
+- 📫 Reach me at: **imsachinsingh00@outlook.com**  
+- 💬 Ask me about: **AI, ML, DL, LLMs, NLP, CV, MLOps**  
+- ⚡ Fun fact: *I’m very talkative but equally focused when coding.* 😄  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsachinsingh00&show_icons=true&locale=en&layout=compact" alt="imsachinsingh00" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsachinsingh00&show_icons=true&locale=en" alt="imsachinsingh00" /></p>
+### 🔗 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsachinsingh00&" alt="imsachinsingh00" /></p>
+<p align="left">
+  <a href="https://linkedin.com/in/imsachinsingh00" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://huggingface.co/Imsachinsingh00" target="blank">
+    <img align="center" src="https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface" />
+  </a>
+  <a href="https://medium.com/@imsachinsingh00" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium" />
+  </a>
+</p>
+
+---
+
+### 🛠 Languages & Tools
+
+Python, PyTorch, TensorFlow, YOLO, LLaMA, BERT, T5, HuggingFace, FastAPI, Flask, Streamlit, MLflow, DVC, AWS, Azure, SQL, Docker, Airflow, OpenCV, Mediapipe, Java, Linux, Git, Power BI, Tableau
+
+---
+
+### 🚀 Featured Projects
+
+- 🧠 **Interview Prep Bot (LLM + FastAPI)** – [GitHub](https://github.com/imsachinsingh00/interview-prep-bot)  
+- ✋ **HandyLabels (Gesture Recognition)** – Under review @ ACM IUI 2025  
+- 🎓 **Educational Chatbot (DeepSeek-R1 + Streamlit)** – [Hugging Face Space](https://huggingface.co/spaces/Imsachinsingh00/education-chatbot)  
+- 🎯 **LLM-Powered News Summarizer** – Dockerized, deployed on Azure  
+- 🦾 **Real-Time Traffic Forecasting with LSTM** – AWS-integrated with Kafka stream
+
+---
+
+### 📃 Publications
+
+**HandyLabels: Real-Time Annotation Tool Using Hand Gesture Recognition**  
+*Sachin Kumar Singh et al., ACM IUI 2025 (under review)*
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imsachinsingh00&show_icons=true&locale=en" alt="stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsachinsingh00&layout=compact" alt="langs" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsachinsingh00" alt="streak" />
+</p>
+
+---
+
+### 📜 Certificates
+
+- IBM Data Science Series (Level 2)
+- AWS Cloud Technical Essentials
+- HackerRank: SQL, Java, JavaScript, Problem Solving
+
+---
+
+Would you like this saved as a `.md` file now? I can deliver it as `GitHub_Profile_README.md` for easy upload.
