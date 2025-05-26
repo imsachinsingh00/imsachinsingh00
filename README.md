@@ -1,4 +1,5 @@
-![MasterHead](https://i.imgur.com/vpA0oHb.jpg)
+![MasterHead](https://i.imgur.com/VxXdQh9.png)
+
 
 <h1 align="center">Hi 👋, I'm Sachin Kumar Singh</h1>
 <h3 align="center">AI Engineer | Real-time ML & LLM Systems | M.Sc. in Computer Science | RPTU Kaiserslautern</h3>
