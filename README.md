@@ -1,6 +1,6 @@
-![MasterHead](https://github.com/imsachinsingh00/imsachinsingh00/blob/main/AI_Cover_Positive_820x360.png)
+![MasterHead](https://github.com/imsachinsingh00/imsachinsingh00/blob/main/AI_Cover_Positive0x360.png)
 
-<h1 align="center">Hi 👋, I'm Sachin Kumar Singh</h1>
+
 <h3 align="center">AI Engineer | Real-time ML & LLM Systems | M.Sc. in Computer Science | RPTU Kaiserslautern</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
