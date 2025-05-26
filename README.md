@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar Singh</h1>
 <h3 align="center">AI Engineer | Real-time ML & LLM Systems | M.Sc. in Computer Science | RPTU Kaiserslautern</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> 
