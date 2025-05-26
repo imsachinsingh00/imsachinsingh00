@@ -14,7 +14,7 @@
 - 🌱 Exploring: **Human-Computer Interaction & Generative AI Systems**  
 - 📝 Regular author on [Medium](https://medium.com/@imsachinsingh00)  
 - 🌐 My Portfolio: [datascienceportfol.io/sachinsingheu](https://www.datascienceportfol.io/sachinsingheu)  
-- 📫 Reach me at: **imsachinsingh00@outlook.com**  
+- 📫 Reach me at: **sachinsingh.eu@gmail.com**  
 - 💬 Ask me about: **AI, ML, DL, LLMs, NLP, CV, MLOps**  
 - ⚡ Fun fact: *I’m very talkative but equally focused when coding.* 😄  
 
