@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xqOXppdHVqejJrNW5vNHc1ajZqOGk4OThlYmYwZDQ4OG93ZDEzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif)
+![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xqOXppdHVqejJrNW5vNHc1ajZqOGk4OThlYmYwZDQ4OG93ZDEzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaO6TmgQmKEQ4516sE/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Sachin Kumar Singh</h1>
 <h3 align="center">AI Engineer | Real-time ML & LLM Systems | M.Sc. in Computer Science | RPTU Kaiserslautern</h3>
